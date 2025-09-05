@@ -5,6 +5,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-  darkMode: 'media', // Use 'media' mode for automatic dark theme detection
+  darkMode: 'class', // Use 'class' mode for manual dark theme control
   plugins: [],
 };
