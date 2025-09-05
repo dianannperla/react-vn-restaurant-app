@@ -7,4 +7,5 @@ module.exports = {
     darkMode: 'class',
   },
   plugins: [],
+  mode: 'jit',
 };
