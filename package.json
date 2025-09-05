@@ -23,6 +23,6 @@
   "devDependencies": {
     "postcss": "^8.3.10",
     "autoprefixer": "^10.3.7",
-    "react-scripts": "5.0.2"
+    "react-scripts": "5.0.3"
   }
 }
