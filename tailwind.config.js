@@ -7,5 +7,4 @@ module.exports = {
   },
   darkMode: 'media',
   plugins: [],
-  mode: 'jit',
 };
