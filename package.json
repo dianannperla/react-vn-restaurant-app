@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "keywords": [],
-  "author": "Your Name",
+  "author": "John Doe",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
